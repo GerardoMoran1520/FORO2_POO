@@ -1,0 +1,11 @@
+poo_foro2w.Equipo
+poo_foro2w.POO_FORO2W
+foro2poo.Foro2POO
+foro2poo.Equipo
+foro2poo.Desktop
+poo_foro2w.Desktop
+poo_foro2w.Tablet
+foro2poo.Tablet
+poo_foro2w.Laptop
+poo_foro2w.Foro2POO
+foro2poo.Laptop
